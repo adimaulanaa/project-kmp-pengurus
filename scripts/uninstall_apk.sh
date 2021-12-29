@@ -1,0 +1,1 @@
+adb uninstall nitoza.kmp_pengurus_app
